@@ -1,6 +1,4 @@
-# Implementing-a-Blockchain-Using-A-P2P-Network-Architecture
-
-# 2020-net-b
+# Implementing a Blockchain Using A P2P Network Architecture
 
 
 ## About the subject
